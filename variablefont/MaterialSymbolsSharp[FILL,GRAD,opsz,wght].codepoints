@@ -1994,6 +1994,7 @@ network_wifi_2_bar ebd6
 network_wifi_2_bar_locked f58e
 network_wifi_3_bar ebe1
 network_wifi_3_bar_locked f58d
+network_wifi_locked f532
 neurology e10e
 new_label e609
 new_releases ef76
@@ -2214,6 +2215,7 @@ phonelink_ring_off f7aa
 phonelink_setup ef41
 photo e432
 photo_album e411
+photo_auto_merge f530
 photo_camera e412
 photo_camera_back ef68
 photo_camera_front ef69
@@ -2234,6 +2236,7 @@ picture_in_picture_alt e911
 picture_in_picture_center f550
 picture_in_picture_large f54f
 picture_in_picture_medium f54e
+picture_in_picture_off f52f
 picture_in_picture_small f54d
 pie_chart f0da
 pie_chart_filled f0da
